@@ -37,6 +37,12 @@
           <AssociatedConnUserName />
           <FullPath>3.sql</FullPath>
         </FileNode>
+        <FileNode Name="4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOUSE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOUSE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Разное" Type="3" Sorted="true">
