@@ -1,6 +1,6 @@
---Показать поля PurchaseOrderID, Status, SubTotal из таблицы Purchasing.PurchaseOrderHeader.
---Показать только те записи, для которых итог по заказу на покупку (SubTotal) больше $2000 и меньше $3000.
---Использовать оператор BETWEEN.
+--РџРѕРєР°Р·Р°С‚СЊ РїРѕР»СЏ PurchaseOrderID, Status, SubTotal РёР· С‚Р°Р±Р»РёС†С‹ Purchasing.PurchaseOrderHeader.
+--РџРѕРєР°Р·Р°С‚СЊ С‚РѕР»СЊРєРѕ С‚Рµ Р·Р°РїРёСЃРё, РґР»СЏ РєРѕС‚РѕСЂС‹С… РёС‚РѕРі РїРѕ Р·Р°РєР°Р·Сѓ РЅР° РїРѕРєСѓРїРєСѓ (SubTotal) Р±РѕР»СЊС€Рµ $2000 Рё РјРµРЅСЊС€Рµ $3000.
+--РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РѕРїРµСЂР°С‚РѕСЂ BETWEEN.
 SELECT PurchaseOrderID,Status,SubTotal
 FROM Purchasing.PurchaseOrderHeader
 WHERE SubTotal BETWEEN $2000 AND $3000;

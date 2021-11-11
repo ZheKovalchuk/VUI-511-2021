@@ -1,3 +1,3 @@
---Показать все поля из таблицы Production.Location.
+--РџРѕРєР°Р·Р°С‚СЊ РІСЃРµ РїРѕР»СЏ РёР· С‚Р°Р±Р»РёС†С‹ Production.Location.
 SELECT *
 FROM Production.Location;
