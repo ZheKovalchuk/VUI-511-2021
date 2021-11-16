@@ -25,6 +25,12 @@
           <AssociatedConnUserName />
           <FullPath>1.sql</FullPath>
         </FileNode>
+        <FileNode Name="10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOUSE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOUSE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10.sql</FullPath>
+        </FileNode>
         <FileNode Name="2.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOUSE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>HOUSE\SQLEXPRESS</AssociatedConnSrvName>
@@ -60,6 +66,18 @@
           <AssociatedConnSrvName>HOUSE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOUSE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOUSE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HOUSE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HOUSE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
