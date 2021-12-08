@@ -1,8 +1,7 @@
 --3) Для каждой профессии найти суммарное количество человек, 
 --которые были приняты позже 2010 года, из таблицы HumanResources.Employee, 
 --не учитывать пустые значения.
-SELECT JobTitle, COUNT(*)
+SELECT JobTitle, Count(BusinessEntityID)
 FROM HumanResources.Employee
-WHERE HireDate IS NOT NULL
+WHERE JobTitle IS NOT NULL AND HireDate > '2010-01-01'
 GROUP BY JobTitle
-HAVING MAX(JobTitle) > '2010'
