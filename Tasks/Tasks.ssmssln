@@ -11,6 +11,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Task 3", "Task 3\Task 3.ssm
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Task 4", "Task 4\Task 4.ssmssqlproj", "{0691212B-35C2-48F0-B1B6-AFE5709A452D}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Task 5", "Task 5\Task 5.ssmssqlproj", "{29AE5D41-AC3B-497A-AF65-9D9DFBC8F8D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -20,6 +22,8 @@ Global
 		{2762F2CA-F50A-4A8C-9E55-9791F2130D48}.Default|Default.ActiveCfg = Default
 		{B26E3D0E-42F2-4646-8797-B0ABE5F22FC8}.Default|Default.ActiveCfg = Default
 		{0691212B-35C2-48F0-B1B6-AFE5709A452D}.Default|Default.ActiveCfg = Default
+		{387F6CBC-F2C3-4B2F-9279-1FF5667F8886}.Default|Default.ActiveCfg = Default
+		{29AE5D41-AC3B-497A-AF65-9D9DFBC8F8D0}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
